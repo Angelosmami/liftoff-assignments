@@ -7,10 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+https://github.com/JennLogan/Lets-eat/blob/main/wireframe1.jpg
+https://github.com/JennLogan/Lets-eat/blob/main/wireframe2.jpg
+https://github.com/JennLogan/Lets-eat/blob/main/wireframe3.jpg
 
-- wireframe1.jpg (Sign in page and User sign up page)
-_ wireframe2.jpg (Profile page)
-- wireframe3. jpg (recipe page)
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
@@ -22,6 +22,6 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 ### Project Repo Link
 
-https://github.com/Angelosmami/WhatsForDinnerc
+https://github.com/JennLogan/Lets-eat
 
 Include a link to your project on GitHub.
